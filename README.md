@@ -1,3 +1,6 @@
+Revision to select for chrX and chrY in WGS data.
+Printing chrX and chrY ratio.
+
 Scripts for checking the sex of WGS samples
 -------------------------------------------
 
